@@ -1,0 +1,6 @@
+<div class="wp">
+  <div
+    *ngFor="let i of nodes; index as ind"
+    [@nodes]="i"
+    (click)="toggle(ind)"></div>
+</div>

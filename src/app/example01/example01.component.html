@@ -1,0 +1,6 @@
+<div class="wp">
+  <div 
+    *ngFor="let i of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]" 
+    [@node]="{value: ':enter', params: { delay: (i * 300) } }"
+    ></div>
+</div>
