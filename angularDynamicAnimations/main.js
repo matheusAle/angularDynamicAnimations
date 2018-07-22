@@ -41,7 +41,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<h1>Exemple 0</h1>\r\n<app-example0></app-example0>\r\n\r\n<h1>Exemple 1</h1>\r\n<app-example01></app-example01>\r\n\r\n<h1>Exemple 2</h1>\r\n<app-example02></app-example02>"
+module.exports = "<h1>Example 0</h1>\r\n<app-example0></app-example0>\r\n\r\n<h1>Example 1</h1>\r\n<app-example01></app-example01>\r\n\r\n<h1>Example 2</h1>\r\n<app-example02></app-example02>"
 
 /***/ }),
 
